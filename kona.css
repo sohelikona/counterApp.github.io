@@ -1,0 +1,117 @@
+ /* html, body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: green;
+    background: goldenrod;
+    
+}
+
+div {
+    padding: 80px 0 0 0;
+    font-size: 30px
+}
+ 
+
+button {
+    height: 50px;
+    width: 110px;
+    background: royalblue;
+    font-size: 30px;
+}
+
+
+h1 {
+   font-size: 70px;
+   font-weight: bold;
+   padding: 90px 0 0 0 ;
+} */
+
+
+
+/* html, body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu-btn {
+    height: 300px;
+    width: 500px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+
+
+a {
+    
+    background-color: black;
+    color: white;
+   font-weight: normal;
+   text-decoration: none;
+    list-style-type: none;
+    font-weight: normal;
+}
+
+.menu {
+    height: 100px;
+    width: 300px;
+} */
+
+
+
+body {
+    background-color: aliceblue;
+}
+
+
+h1 {
+    position: absolute;
+    top: 32%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 50px;
+    
+}
+
+
+.button-container {
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+
+
+
+button {
+    height: 30px;
+    width: 90px;
+    outline: 2px solid black;
+    border-radius: 5px;
+    margin: 10px; 
+    background-color: aliceblue;
+}
+button:hover {
+    background-color: rgb(92, 92, 92);
+    color: gray;
+}
+
+
+
+
+
+
+#value {
+    position: absolute;
+    top: 43%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 60px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
